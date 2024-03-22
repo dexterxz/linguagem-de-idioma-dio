@@ -1,5 +1,7 @@
 # linguagem-de-idioma-dio
 
+processo de criação bem simples, de acordo com o passo à passo, mostrado no curso.
+
 ![image](https://github.com/dexterxz/linguagem-de-idioma-dio/assets/151438503/18bec60b-156b-4c13-8f75-898ae4e90ded)
 
 ![image](https://github.com/dexterxz/linguagem-de-idioma-dio/assets/151438503/e3385753-1bed-4a1b-962e-06c58c45d374)
